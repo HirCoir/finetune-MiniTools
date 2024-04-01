@@ -1,3 +1,4 @@
+# En Linux deberás de instalar tkinter usando: sudo apt-get install -y python-tk
 import subprocess
 import importlib
 import sys
